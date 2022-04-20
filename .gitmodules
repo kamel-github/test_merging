@@ -1,0 +1,4 @@
+[submodule "kamel-github/test_merging"]
+	path = kamel-github/test_merging
+	url = git@github.com:kamel-github/test_merging.git
+	branch = dali01
